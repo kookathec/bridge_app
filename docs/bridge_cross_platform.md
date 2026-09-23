@@ -6,8 +6,8 @@ Bridge is a complete code rewrite and is currently in beta testing. Some feature
 
 **Install quickly:**
 
-* **iPhone:** Install [Bridge through TestFlight](https://testflight.apple.com/join/cNQxMjAu).
-* **Wear OS watch:** Join the [bridge-x-testers Google Group](https://groups.google.com/g/bridge-x-testers) to install via [Google Play testing](https://play.google.com/apps/testing/com.orienlabs.bridge.wear), or [download the latest watch APK](https://olabs.app/assets/release/bridge-x_wearos.apk) (see [release page](https://github.com/orienlabs/bridge_app/releases)).
+* **iPhone/ watchOS:** Install [Bridge through TestFlight](https://testflight.apple.com/join/cNQxMjAu).
+* **Android Phone/ Wear OS watch:** Join the [bridge-x-testers Google Group](https://groups.google.com/g/bridge-x-testers) to install via [Google Play testing](https://play.google.com/apps/testing/com.orienlabs.bridge.wear), or [download the latest APK](https://github.com/orienlabs/bridge_app/releases) (see [release page](https://github.com/orienlabs/bridge_app/releases)).
 
 > [!IMPORTANT]
 > **Important Notice: Bridge Rebuilt from Scratch**
